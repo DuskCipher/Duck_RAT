@@ -183,7 +183,7 @@
 **🖥️ High-Quality Screenshots • 📒 Full Gallery Access • 🔤 Advanced Keylogger**
 **📁 Complete File Manager • 🔓 Auto Permission Bypass • 🎯 Advanced Targeting**
 
-[![Get Premium Access](https://img.shields.io/badge/🚀%20GET%20PREMIUM%20NOW%20🚀-gold?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DuskCipher)
+[![Get Premium Access](https://img.shields.io/badge/🚀%20GET%20PREMIUM%20NOW%20🚀-gold?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/izal_buyx)
 
 </td>
 </tr>
@@ -299,7 +299,7 @@ bash start.sh
 </td>
 <td align="center" width="25%">
 
-[![Telegram Support](https://img.shields.io/badge/💬%20Telegram%20Support-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DuskCipher)
+[![Telegram Support](https://img.shields.io/badge/💬%20Telegram%20Support-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/izal_buyx)
 
 </td>
 <td align="center" width="25%">
