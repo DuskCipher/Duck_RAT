@@ -205,24 +205,6 @@
 <tr>
 <td width="50%">
 
-### 🔧 **TERMUX INSTALLATION**
-```bash
-# Update package list
-pkg update && pkg upgrade -y
-
-# Install dependencies
-pkg install git nodejs python -y
-
-# Clone repository
-git clone https://github.com/DuskCipher/DuckRat
-
-# Navigate to directory
-cd DuckRat
-
-# Start installation
-bash start.sh
-```
-
 </td>
 <td width="50%">
 
