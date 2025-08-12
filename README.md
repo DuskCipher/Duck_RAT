@@ -12,7 +12,7 @@
 
 [![Stars](https://img.shields.io/github/stars/DuskCipher/DuckRat?style=for-the-badge&logo=star&color=gold&logoColor=white&label=⭐%20STARS)](https://github.com/DuskCipher/DuckRat)
 [![Forks](https://img.shields.io/github/forks/DuskCipher/DuckRat?style=for-the-badge&logo=git-fork&color=purple&logoColor=white&label=🔀%20FORKS)](https://github.com/DuskCipher/DuckRat)
-[![Downloads](https://img.shields.io/badge/📥%20Downloads-50K+-brightgreen?style=for-the-badge&logo=download&logoColor=white)]()
+[![Downloads](https://img.shields.io/badge/📥%20Downloads-6+-brightgreen?style=for-the-badge&logo=download&logoColor=white)]()
 [![License](https://img.shields.io/badge/📜%20License-MIT-cyan?style=for-the-badge&logoColor=white)](LICENSE)
 
 </div>
